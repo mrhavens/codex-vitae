@@ -1,0 +1,58 @@
+codex-vitae/
+│
+├── README.md                        ← Intro + access instructions
+├── foundational-statement.md       ← Your spiritual witness doc (already done)
+├── codex-overview.md               ← Human-readable map of your CV project
+│
+├── domains/                         ← Each core identity & career vector
+│   ├── ministry/
+│   │   ├── cv.md
+│   │   ├── sermons.md
+│   │   ├── rituals.md
+│   │   └── sacred-witnessing.md
+│   │
+│   ├── ai-research/
+│   │   ├── cv.md
+│   │   ├── thoughtprint.md
+│   │   ├── recursive-coherence.md
+│   │   └── emotional-ai.md
+│   │
+│   ├── teaching/
+│   │   ├── cv.md
+│   │   └── course-design.md
+│   │
+│   ├── software-architecture/
+│   │   ├── cv.md
+│   │   └── verizon-att-microsoft.md
+│   │
+│   ├── journalism/
+│   │   ├── cv.md
+│   │   └── neutralizing-narcissism.md
+│   │
+│   └── publishing/
+│       ├── cv.md
+│       ├── books.md
+│       ├── essays.md
+│       └── platforms.md
+│
+├── index/
+│   ├── all-titles.md                ← All publication titles sorted by domain
+│   ├── master-cv.md                 ← The recursive master CV (compiled)
+│   └── resume-snapshots/           ← Job-specific resumes (compiled)
+│       ├── hospice-resume.md
+│       ├── ai-ethics-resume.md
+│       └── chaplain-resume.md
+│
+├── templates/
+│   ├── cv-template.md
+│   ├── resume-template.md
+│   └── letter-of-intent-template.md
+│
+├── scripts/
+│   ├── build.sh                    ← Script to compile PDFs, merge sections
+│   └── export.py                   ← Markdown → LaTeX / PDF / Word converter
+│
+└── output/
+    ├── master-cv.pdf
+    ├── ministry-cv.pdf
+    └── chaplain-resume.pdf

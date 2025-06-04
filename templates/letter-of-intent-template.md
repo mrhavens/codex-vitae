@@ -1,0 +1,1 @@
+# Letter Of Intent Template
