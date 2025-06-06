@@ -27,3 +27,4 @@
   CLI: git ls-tree -r --name-only HEAD # View file structure
 [2025-06-06 13:31:23] Forgejo: https://remember.thefoldwithin.earth/mrhavens/codex-vitae
 [2025-06-06 13:31:46] GitLab: https://gitlab.com/mrhavens/codex-vitae
+[2025-06-06 13:32:01] Bitbucket: https://bitbucket.org/thefoldwithin/codex-vitae
