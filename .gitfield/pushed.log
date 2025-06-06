@@ -18,3 +18,4 @@
   CLI: rad inspect rad:z3FEj7rF8gZw9eFksCuiN43qjzrex # View project details
   CLI: git ls-tree -r --name-only HEAD # View file structure
 [2025-06-06 13:30:18] Forgejo: https://remember.thefoldwithin.earth/mrhavens/codex-vitae
+[2025-06-06 13:30:29] GitLab: https://gitlab.com/mrhavens/codex-vitae
