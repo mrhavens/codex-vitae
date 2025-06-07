@@ -78,3 +78,6 @@
 [2025-06-07 06:39:25] Bitbucket: https://bitbucket.org/thefoldwithin/codex-vitae
 [2025-06-07 06:39:58] GitHub: https://github.com/mrhavens/codex-vitae
 [2025-06-07 06:39:59] Local: 
+[2025-06-07 06:40:09] Radicle: RID=rad:z3FEj7rF8gZw9eFksCuiN43qjzrex, Peer ID=z6Mkw5s3ppo26C7y7tGK5MD8n2GqTHS582PPpeX5Xqbu2Mpz
+  CLI: rad inspect rad:z3FEj7rF8gZw9eFksCuiN43qjzrex # View project details
+  CLI: git ls-tree -r --name-only HEAD # View file structure
