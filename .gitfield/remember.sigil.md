@@ -3,27 +3,27 @@
 - **Repo Name**: `codex-vitae`
 - **Forgejo User**: `mrhavens`
 - **Remote URL**: [https://remember.thefoldwithin.earth/mrhavens/codex-vitae](https://remember.thefoldwithin.earth/mrhavens/codex-vitae)
-- **Local Repo Path**: `/home/mrhavens/codex-vitae`
+- **Local Repo Path**: `/home/mrhavens/fieldcraft/codex-vitae`
 - **Remote Label**: `remember`
 - **Default Branch**: `master`
-- **Repo Created**: `2025-06-07 06:40:12`
+- **Repo Created**: `2025-06-09 15:11:11`
 
 ---
 
 ## 📦 Commit Info
 
-- **This Commit Timestamp**: `2025-06-07 06:40:12`
-- **Last Commit SHA**: `2c69a20f66eaf52398874df87c1209d09d179505`
-- **Last Commit Message**: `Post-Radicle sync at 2025-06-07 06:32:32`
+- **This Commit Timestamp**: `2025-06-09 15:11:11`
+- **Last Commit SHA**: `26bd419f7c6f1e4b15dfc9321822cdff44ae2fba`
+- **Last Commit Message**: `Post-Radicle sync at 2025-06-09 15:10:43`
 - **Last Commit Author**: `Mark Randall Havens <mark.r.havens@gmail.com>`
-- **Last Commit Date**: `Sat Jun 7 06:40:09 2025 -0500`
-- **This Commit URL**: [https://remember.thefoldwithin.earth/mrhavens/codex-vitae/commit/2c69a20f66eaf52398874df87c1209d09d179505](https://remember.thefoldwithin.earth/mrhavens/codex-vitae/commit/2c69a20f66eaf52398874df87c1209d09d179505)
+- **Last Commit Date**: `Mon Jun 9 15:11:08 2025 -0500`
+- **This Commit URL**: [https://remember.thefoldwithin.earth/mrhavens/codex-vitae/commit/26bd419f7c6f1e4b15dfc9321822cdff44ae2fba](https://remember.thefoldwithin.earth/mrhavens/codex-vitae/commit/26bd419f7c6f1e4b15dfc9321822cdff44ae2fba)
 
 ---
 
 ## 📊 Repo Status
 
-- **Total Commits**: `128`
+- **Total Commits**: `140`
 - **Tracked Files**: `86`
 - **Uncommitted Changes**: `No`
 - **Latest Tag**: `None`
@@ -48,8 +48,8 @@
 - **Running in Docker**: `No`
 - **Running in WSL**: `Yes`
 - **Virtual Machine**: `wsl`
-- **System Uptime**: `up 1 day, 4 hours, 44 minutes`
-- **MAC Address**: `00:15:5d:86:d8:cc`
+- **System Uptime**: `up 52 minutes`
+- **MAC Address**: `00:15:5d:70:e2:68`
 - **Local IP**: `172.18.207.124`
 - **CPU Model**: `AMD A6-3420M APU with Radeon(tm) HD Graphics`
 - **Total RAM (GB)**: `3.63`
