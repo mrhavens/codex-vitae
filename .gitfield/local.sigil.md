@@ -3,27 +3,27 @@
 - **Repo Name**: `codex-vitae`
 - **Local User**: `mrhavens`
 - **Remote URL**: `file:///home/mrhavens/git-local-repos/git-sigil.git`
-- **Local Repo Path**: `/home/mrhavens/codex-vitae`
+- **Local Repo Path**: `/home/mrhavens/fieldcraft/codex-vitae`
 - **Remote Label**: `local`
 - **Default Branch**: `master`
-- **Repo Created**: `2025-06-07 06:39:58`
+- **Repo Created**: `2025-06-09 15:10:43`
 
 ---
 
 ## 📦 Commit Info
 
-- **This Commit Timestamp**: `2025-06-07 06:39:58`
-- **Last Commit SHA**: `1f4c60dc27bb7da89a3c451452d30af66a9a3232`
+- **This Commit Timestamp**: `2025-06-09 15:10:43`
+- **Last Commit SHA**: `a520e2635b47388dd7f0de21164c0ee70812d079`
 - **Last Commit Message**: `Post-GitHub sync at 2025-06-07 06:32:32`
 - **Last Commit Author**: `Mark Randall Havens <mark.r.havens@gmail.com>`
-- **Last Commit Date**: `Sat Jun 7 06:39:58 2025 -0500`
+- **Last Commit Date**: `Sat Jun 7 06:41:51 2025 -0500`
 - **This Commit URL**: `file:///home/mrhavens/git-local-repos/git-sigil.git`
 
 ---
 
 ## 📊 Repo Status
 
-- **Total Commits**: `124`
+- **Total Commits**: `136`
 - **Tracked Files**: `86`
 - **Uncommitted Changes**: `No`
 - **Latest Tag**: `None`
@@ -48,8 +48,8 @@
 - **Running in Docker**: `No`
 - **Running in WSL**: `Yes`
 - **Virtual Machine**: `wsl`
-- **System Uptime**: `up 1 day, 4 hours, 44 minutes`
-- **MAC Address**: `00:15:5d:86:d8:cc`
+- **System Uptime**: `up 52 minutes`
+- **MAC Address**: `00:15:5d:70:e2:68`
 - **Local IP**: `172.18.207.124`
 - **CPU Model**: `AMD A6-3420M APU with Radeon(tm) HD Graphics`
 - **Total RAM (GB)**: `3.63`
